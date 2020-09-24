@@ -15,3 +15,16 @@
 **Today's Progress**: Basic HTML 80% on FreeCodeCamp.
 
 **Thoughts** I am experienced programmer starting to learn front end. so it was very basic things to complete the progress, want to get through the formality of the course.
+
+
+### Day 2: Sep 23, Wednesday
+
+**Today's Progress**: Basic HTML 100% on FreeCodeCamp. Busy schedule at work. so missed a day's progress. starting css
+
+**Thoughts** figure out a fixed time for this activity
+
+### Day 3: Sep 24, Thursday
+
+**Today's Progress**: 
+
+**Thoughts** 
